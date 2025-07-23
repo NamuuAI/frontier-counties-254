@@ -1,0 +1,1 @@
+body { font-family: Arial, sans-serif; background: #FAF0E6; color: #333; } .navbar { background: #A04000; padding: 1em; color: white; } .hero { background: #D98817; color: white; padding: 2em; text-align: center; } .camel-animation { font-size: 4rem; animation: walk 3s linear forwards; } @keyframes walk { 0% {transform: translateX(-100%);} 100% {transform: translateX(100%);} }
